@@ -167,8 +167,8 @@ projectArray = [
   {
     name: "Love",
     year: 2021,
-    description: "",
-    embed: "https://s-dney.github.io/love",
+    description: "Love is a Chrome extension that rubricates the internet. <a href='http://s-dney.github.io/love'>See it here.</a>",
+    embed: "",
     images: [
       {
       src: "",
