@@ -65,7 +65,7 @@ hr {
 .sidebar {
   grid-column: 1;
   /* border-right: 1px solid gray; */
-  min-width: 150px;
+  min-width: 190px;
   padding-right: 40px;
   overflow: scroll;
   /* padding-top: 10px; */
@@ -103,4 +103,41 @@ canvas {
 #CourseTable1 {
   display: inline;
   height: 100px;
+}
+
+@media screen and (max-width: 750px) {
+  .wrapper {
+    position: absolute;
+    display: grid;
+    left: 0;
+    grid-template-columns: none;
+    grid-template-rows: 1fr 4fr;
+    /* border: 1px solid black; */
+    width: 90%;
+    height: 100%;
+    padding-left: 0px;
+    margin-left: 10%;
+  }
+  .sidebar {
+    grid-row: 1;
+    border: 1px solid gray;
+    margin-right: 10%;
+    padding-left: 10%;
+    min-width: none;
+    overflow: scroll;
+    /* padding-top: 10px; */
+  }
+  .content {
+
+    /* background-color: white; */
+    padding-left: 0px;
+    padding-right: 10%;
+    overflow: scroll;
+    height: auto;
+    width: 100%
+  }
+
+  .object {
+    width: 100%
+  }
 }
