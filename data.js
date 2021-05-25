@@ -168,7 +168,7 @@ projectArray = [
     name: "Love",
     year: 2021,
     description: "",
-    embed: "http://s-dney.github.io/love",
+    embed: "https://s-dney.github.io/love",
     images: [
       {
       src: "",
