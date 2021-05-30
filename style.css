@@ -145,15 +145,24 @@ canvas {
   }
 }
 
-#HopeinaBox0, #Determination0, #TheProblemWithSappho0 {
+#HopeinaBox0,  #TheProblemWithSappho0 {
   width: 100%
 }
 
 #CourseTable0 {
-  display: inline;
-  width: 100px;
+
+  width: 100%;
 }
 
 #Determination0 {
   width: 100%
+}
+
+#TheYaleGlobalist0 {
+  height: 70%
+}
+
+#Determination0 {
+  height: 100%;
+  width: auto;
 }

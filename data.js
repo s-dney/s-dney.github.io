@@ -2,7 +2,7 @@ projectArray = [
   {
     name: "Six Times a Day",
     year: 2021,
-    description: "A loud, interactive musing on the nature of clocks. Visit it at <a href='https://youarethinkingaboutaclockcompletelywrong.com'>youarethinkingaboutaclockcompletelywrong.com</a>.",
+    description: "A loud, interactive mostly-JS musing on the nature of clocks. Visit it at <a href='https://youarethinkingaboutaclockcompletelywrong.com'>youarethinkingaboutaclockcompletelywrong.com</a>.",
     embed: "https://youarethinkingaboutaclockcompletelywrong.com",
     images: []
   },
@@ -43,7 +43,7 @@ projectArray = [
       {
       src: "assets/adaptation.png",
       title: "ADAPTATION",
-      caption: "Winter/Spring 2021: ADAPTATION",
+      caption: "Winter/Spring 2021: ADAPTATION (click to view PDF)",
       link: "assets/Globalist_Spring2021_Adaptation_Print.pdf"
       }
     ]
@@ -51,7 +51,7 @@ projectArray = [
   {
     name: "Thesis Shows 2021",
     year: 2021,
-    description: "Principal design + code on the 2021 directory for North American art programs' final online showcases.",
+    description: "Principal design + code on the 2021 directory for North American art programs' final online showcases. HTML, CSS, JS",
     embed: "https://thesisshows2021.com",
     images: [
       {
@@ -79,21 +79,15 @@ projectArray = [
   {
     name: "CourseTable",
     year: 2020,
-    description: "",
+    description: "Branding for Yale's student-run course catalog website, 2020",
     embed: "https://coursetable.com",
     images: [
       {
-      src: "assets/bluebook_small.png",
+      src: "assets/coursetable.jpeg",
       title: "",
       caption: "",
       link: null
-      },
-      {
-        src: "assets/wordmark.png",
-        title: "",
-        caption: "",
-        link: null
-        }
+      }
     ]
   },
   // {
