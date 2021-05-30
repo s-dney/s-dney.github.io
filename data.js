@@ -167,8 +167,8 @@ projectArray = [
   {
     name: "Love",
     year: 2021,
-    description: "",
-    embed: "https://s-dney.github.io/love",
+    description: "A rubricator for the internet. Chrome extension, 2021",
+    embed: "https://sidneyhirschman.com/love",
     images: [
       {
       src: "",

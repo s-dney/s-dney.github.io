@@ -91,14 +91,6 @@ canvas {
   margin-left: -10px;
 }
 
-#HopeinaBox0 {
-  width: 100%
-}
-
-#CourseTable0 {
-  display: inline;
-  width: 100px;
-}
 
 #CourseTable1 {
   display: inline;
@@ -137,7 +129,31 @@ canvas {
     width: 100%
   }
 
+  #CourseTable1 {
+    display: inline;
+    height: auto;
+    width: 100%
+  }
+
   .object {
     width: 100%
   }
+
+  img {
+    width: 100%;
+    height: auto;
+  }
+}
+
+#HopeinaBox0, #Determination0, #TheProblemWithSappho0 {
+  width: 100%
+}
+
+#CourseTable0 {
+  display: inline;
+  width: 100px;
+}
+
+#Determination0 {
+  width: 100%
 }
