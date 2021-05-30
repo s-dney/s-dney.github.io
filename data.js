@@ -51,7 +51,7 @@ projectArray = [
   {
     name: "Thesis Shows 2021",
     year: 2021,
-    description: "Principal designer on the 2021 directory for North American art programs' final online showcases.",
+    description: "Principal design + code on the 2021 directory for North American art programs' final online showcases.",
     embed: "https://thesisshows2021.com",
     images: [
       {
