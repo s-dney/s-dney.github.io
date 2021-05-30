@@ -13,6 +13,12 @@ ul {
 
 }
 
+img {
+  width: 100%;
+}
+
+
+
 ul li, p{
   color: black;
   font-family: 'Overpass', sans-serif;
@@ -29,6 +35,7 @@ ul li, p{
 
 h1 {
   font-family: "Overpass", sans-serif;
+
 }
 
 h2, h3 {
@@ -146,23 +153,30 @@ canvas {
 }
 
 #HopeinaBox0,  #TheProblemWithSappho0 {
-  width: 100%
+
 }
 
 #CourseTable0 {
 
-  width: 100%;
 }
 
 #Determination0 {
-  width: 100%
+
 }
 
 #TheYaleGlobalist0 {
-  height: 70%
+  height: 70%;
+  width: auto;
 }
 
 #Determination0 {
   height: 100%;
   width: auto;
+}
+
+#VanSinderenPoster1 {
+  width: 60%;
+  height: auto;
+  margin-left: 50%;
+  transform: translate(-50%);
 }

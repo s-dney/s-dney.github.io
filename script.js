@@ -49,6 +49,7 @@ function displayProject(project) {
   mainWindow.innerHTML = ""
   let h1 = document.createElement("h1")
   h1.innerText = project.name
+  h1.classList.add("project-title")
   let desc = document.createElement("h3")
   desc.innerHTML = project.description
   mainWindow.append(h1, desc)

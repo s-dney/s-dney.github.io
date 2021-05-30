@@ -62,20 +62,32 @@ projectArray = [
       }
     ]
   },
-  // {
-  //   name: "Kalliope Litmag",
-  //   year: 2019,
-  //   description: "",
-  //   embed: "",
-  //   images: [
-  //     {
-  //     src: "",
-  //     title: "",
-  //     caption: "",
-  //     link: null
-  //     }
-  //   ]
-  // },
+  {
+    name: "Kalliope Litmag",
+    year: 2019,
+    description: "Zine design for the fall/winter 2019 issue of Kalliope, a Yale undergrad literary magazine",
+    embed: "",
+    images: [
+      {
+      src: "assets/wake-photo.jpg",
+      title: "",
+      caption: "",
+      link: null
+      },
+      {
+        src: "assets/wakecover_greenpurple.png",
+        title: "",
+        caption: "",
+        link: null
+        },
+      {
+        src: "assets/kalliope_table.png",
+        title: "",
+        caption: "",
+        link: null
+        },
+    ]
+  },
   {
     name: "CourseTable",
     year: 2020,
@@ -170,6 +182,32 @@ projectArray = [
       caption: "",
       link: null
       }
+    ]
+  },
+  {
+    name: "Van Sinderen Poster",
+    year: 2020,
+    description: "Poster design submission for the 2020 Adrian Van Sinderen Book Collecting Prize",
+    embed: "",
+    images: [
+      {
+      src: "assets/shirschman_sinderenbanner.png",
+      title: "",
+      caption: "",
+      link: null
+      },
+      {
+        src: "assets/shirschman_sinderenposter.png",
+        title: "",
+        caption: "",
+        link: null
+        },
+      {
+        src: "",
+        title: "",
+        caption: "",
+        link: null
+        },
     ]
   },
 ]
